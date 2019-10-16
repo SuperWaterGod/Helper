@@ -1,0 +1,4 @@
+﻿  10.16 For Li.cpp
+D:\ProgramProject\C++\Help\10.16 For Li\10.16 For Li.cpp(18,8): warning C4244:  “=”: 从“unsigned long”转换到“unsigned short”，可能丢失数据
+D:\ProgramProject\C++\Help\10.16 For Li\10.16 For Li.cpp(23,8): warning C4018:  “>”: 有符号/无符号不匹配
+  10.16 For Li.vcxproj -> D:\ProgramProject\C++\Help\10.16 For Li\Debug\10.16 For Li.exe
